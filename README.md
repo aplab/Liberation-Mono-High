@@ -6,9 +6,9 @@ I like Liberation Mono for its state-of-the-art bold and italic and excellent hi
 
 ##This is the Original Liberation Mono:
 
-![Alt-текст](https://habrastorage.org/files/17b/60b/90b/17b60b90bd5a4486a08b0b41c05dc0b6.png "Normal")
+![Alt-текст](https://habrastorage.org/files/f65/43f/b67/f6543fb6704d40ea9aff98999699218b.png "Normal")
 
 ##And that is Liberation Mono High with increased line-height:
 
-![Alt-текст](https://habrastorage.org/files/f65/43f/b67/f6543fb6704d40ea9aff98999699218b.png "High")
+![Alt-текст](https://habrastorage.org/files/17b/60b/90b/17b60b90bd5a4486a08b0b41c05dc0b6.png "High")
 
