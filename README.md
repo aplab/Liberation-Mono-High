@@ -6,9 +6,9 @@ I like Liberation Mono for its state-of-the-art bold and italic and excellent hi
 
 ##This is the Original Liberation Mono:
 
-![Normal](https://raw.githubusercontent.com/aplab/Liberation-Mono-High/master/norm.png "Normal")
+![Normal](http://www.aplab.ru/capsule/storage/files/70c/7c0/22c/70c7c022c264a49c5bce4e00d55bcfb0.png "Normal")
 
 ##And that is Liberation Mono High with increased line-height:
 
-![High](https://raw.githubusercontent.com/aplab/Liberation-Mono-High/master/high.png "High")
+![High](http://www.aplab.ru/capsule/storage/files/e29/1f5/965/e291f596583da3ce24e7d61d0c19fa4d.png "High")
 
